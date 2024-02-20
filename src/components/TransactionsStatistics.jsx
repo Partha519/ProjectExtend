@@ -1,6 +1,5 @@
-// TransactionsStatistics.jsx
 import React from 'react';
-import '../styles/TransactionsStatistics.css'; // Import CSS file
+import '../styles/TransactionsStatistics.css'; 
 
 const TransactionsStatistics = ({ totalSale, totalSoldItems, totalNotSoldItems, selectedMonth }) => {
   return (

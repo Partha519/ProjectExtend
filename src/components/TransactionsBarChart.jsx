@@ -18,7 +18,6 @@ const TransactionsBarChart = ({ selectedMonth }) => {
     }
   };
 
-  // Find the maximum count to scale the bars
   const maxCount = Math.max(...Object.values(barChartData));
 
   return (
