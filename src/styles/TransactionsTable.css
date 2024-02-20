@@ -1,0 +1,38 @@
+/* TransactionsTable.css */
+
+.transactions-table-container {
+    margin: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .search-input {
+    margin-bottom: 10px;
+  }
+  
+  .table img {
+    max-width: 100px; /* Adjust the max-width as needed */
+    max-height: 100px; /* Adjust the max-height as needed */
+  }

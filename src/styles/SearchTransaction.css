@@ -1,0 +1,13 @@
+/* SearchTransaction.css */
+
+.search-input {
+    margin-bottom: 10px;
+    width:fit-content;
+    padding: 8px;
+    border-radius: 4px;
+  }
+
+.search-button {
+  margin-left: 10 px;
+}
+  
