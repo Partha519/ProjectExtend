@@ -4,8 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/public/robots.txt
-/public/manifest.json
+/robots.txt
+/manifest.json
+/README.md
 
 # testing
 /coverage
